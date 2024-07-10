@@ -79,4 +79,4 @@ The token contract provides the following functions:
 
 ## License
 
-This project is released under the [MIT License](https://github.com/saurya25122001/Mod-4-DegenToken/blob/cb864a6b38174b863702c37981e5aeb573361f04/LICENSE)
+This project is released under the [MIT License](https://github.com/22bcs10361/Mod4DegenToken/blob/f78d898499eac9b29d5425923d9beed3c9f6013d/LICENSE)
