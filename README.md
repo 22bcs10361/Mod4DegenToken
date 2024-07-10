@@ -72,10 +72,10 @@ The token contract provides the following functions:
 
 ## Author
 
-*SAURYA PRATAP*
+**Priyanshu**
 
-- GitHub: https://github.com/saurya25122001
-- Email:  22bcs80056@cuchd.in
+- GitHub: (https://github.com/22bcs10361)
+- Email: priyanshu.kumari0031@gmail.com
 
 ## License
 
